@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Data Science Journey!
 
 ## 👋 Perkenalan Diri
-Halo! Saya **Fahmi**, mahasiswa RPL Teknik Informatika 2024. *Repository* ini saya dedikasikan sebagai catatan perjalanan, arsip tugas, dan portofolio saya selama mengikuti mata kuliah **Data Science** yang diampu oleh **Bapak Syahid Abdullah**.
+Halo! Saya **Fahmi Prasetiyo Hadiatna**, NPM 240401020107 mahasiswa RPL Teknik Informatika 2024. *Repository* ini saya dedikasikan sebagai catatan perjalanan, arsip tugas, dan portofolio saya selama mengikuti mata kuliah **Data Science** yang diampu oleh **Bapak Syahid Abdullah**.
 
 ## 🎯 Tujuan Belajar
 Saya sangat termotivasi untuk mendalami *Data Science* karena saya percaya bahwa data adalah fondasi dari inovasi di masa depan. Dengan data, kita bisa merencanakan apa pun secara logis, mengerti alur dari sebuah permasalahan yang kompleks, serta melihat pola untuk memprediksi tren. Tujuan utama saya adalah bisa mengolah *raw data* menjadi sebuah *insight* berharga yang dapat digunakan untuk membuat keputusan secara akurat dan objektif, bukan sekadar menebak-nebak.
